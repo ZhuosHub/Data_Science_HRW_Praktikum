@@ -11,6 +11,7 @@ Die Musterlösungen stehen nach jeder Sitzung in Moodle.
 | 2 | [W2 Praktikum in Colab öffnen](https://colab.research.google.com/github/ZhuosHub/Data_Science_HRW_Praktikum/blob/main/W2/W2_Praktikum_Starter.ipynb) | [W2 Vorlesung in Colab öffnen](https://colab.research.google.com/github/ZhuosHub/Data_Science_HRW_Praktikum/blob/main/W2/Vorlesung/W2-Vorlesung.ipynb) |
 | 3 | [W3 Praktikum in Colab öffnen](https://colab.research.google.com/github/ZhuosHub/Data_Science_HRW_Praktikum/blob/main/W3/W3_Praktikum_Starter.ipynb) | – |
 | 4 | [W4 Praktikum in Colab öffnen](https://colab.research.google.com/github/ZhuosHub/Data_Science_HRW_Praktikum/blob/main/W4/W4_Praktikum_Starter.ipynb) | – |
+| 5 | [W5 Praktikum in Colab öffnen](https://colab.research.google.com/github/ZhuosHub/Data_Science_HRW_Praktikum/blob/main/W5/W5_Praktikum_Starter.ipynb) | – |
 
 1. Link anklicken: Das Notebook öffnet sich in Google Colab.
 2. Oben rechts mit Ihrem Google-Konto anmelden.
