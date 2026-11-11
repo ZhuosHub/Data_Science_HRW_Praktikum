@@ -12,6 +12,7 @@ Die Musterlösungen stehen nach jeder Sitzung in Moodle.
 | 3 | [W3 Praktikum in Colab öffnen](https://colab.research.google.com/github/ZhuosHub/Data_Science_HRW_Praktikum/blob/main/W3/W3_Praktikum_Starter.ipynb) | – |
 | 4 | [W4 Praktikum in Colab öffnen](https://colab.research.google.com/github/ZhuosHub/Data_Science_HRW_Praktikum/blob/main/W4/W4_Praktikum_Starter.ipynb) | – |
 | 5 | [W5 Praktikum in Colab öffnen](https://colab.research.google.com/github/ZhuosHub/Data_Science_HRW_Praktikum/blob/main/W5/W5_Praktikum_Starter.ipynb) | – |
+| 6 | [W6 Praktikum in Colab öffnen](https://colab.research.google.com/github/ZhuosHub/Data_Science_HRW_Praktikum/blob/main/W6/W6_Praktikum_Starter.ipynb) | – |
 
 1. Link anklicken: Das Notebook öffnet sich in Google Colab.
 2. Oben rechts mit Ihrem Google-Konto anmelden.
@@ -24,7 +25,13 @@ Die Daten liegen dann schon in `data/olist/`.
 
 ## Daten
 
-`data/olist/`: sechs der neun Dateien des *Brazilian E-Commerce Public Dataset by Olist*, unverändert übernommen.
+`data/olist/`: sieben der neun Dateien des *Brazilian E-Commerce Public Dataset by Olist*, unverändert übernommen, dazu
+`olist.db` (ab Woche 6): die Tabellen `orders`, `order_items` und `order_reviews` (ohne die Freitexte der Bewertungen)
+als SQLite-Datenbank.
 Quelle: Olist, [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) ·
 Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): Weitergabe nur nicht-kommerziell,
 mit Quellenangabe und unter derselben Lizenz.
+
+`data/bcb/euro_real_2016_2018.json`: Euro-Kurs in Real je Bankarbeitstag, 01.09.2016–31.10.2018, Reihe 21619
+des Zeitreihensystems SGS der Banco Central do Brasil ([API](https://api.bcb.gov.br/dados/serie/bcdata.sgs.21619/dados?formato=json)), abgerufen am
+10.11.2026 – Sicherungskopie für Woche 6, falls die API nicht antwortet.
