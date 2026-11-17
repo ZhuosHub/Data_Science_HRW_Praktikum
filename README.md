@@ -13,6 +13,7 @@ Die Musterlösungen stehen nach jeder Sitzung in Moodle.
 | 4 | [W4 Praktikum in Colab öffnen](https://colab.research.google.com/github/ZhuosHub/Data_Science_HRW_Praktikum/blob/main/W4/W4_Praktikum_Starter.ipynb) | – |
 | 5 | [W5 Praktikum in Colab öffnen](https://colab.research.google.com/github/ZhuosHub/Data_Science_HRW_Praktikum/blob/main/W5/W5_Praktikum_Starter.ipynb) | – |
 | 6 | [W6 Praktikum in Colab öffnen](https://colab.research.google.com/github/ZhuosHub/Data_Science_HRW_Praktikum/blob/main/W6/W6_Praktikum_Starter.ipynb) | – |
+| 7 | [W7 Praktikum in Colab öffnen](https://colab.research.google.com/github/ZhuosHub/Data_Science_HRW_Praktikum/blob/main/W7/W7_Praktikum_Starter.ipynb) | – |
 
 1. Link anklicken: Das Notebook öffnet sich in Google Colab.
 2. Oben rechts mit Ihrem Google-Konto anmelden.
@@ -31,6 +32,9 @@ als SQLite-Datenbank.
 Quelle: Olist, [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) ·
 Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): Weitergabe nur nicht-kommerziell,
 mit Quellenangabe und unter derselben Lizenz.
+
+`W7/app_daten/projekt.db` (ab Woche 7): die Tabelle `bestellungen` – eine Zeile je gelieferter Olist-Bestellung,
+so wie eine `projekt.db` aus Woche 6. Gebaut aus den Olist-Dateien oben, gleiche Lizenz.
 
 `data/bcb/euro_real_2016_2018.json`: Euro-Kurs in Real je Bankarbeitstag, 01.09.2016–31.10.2018, Reihe 21619
 des Zeitreihensystems SGS der Banco Central do Brasil ([API](https://api.bcb.gov.br/dados/serie/bcdata.sgs.21619/dados?formato=json)), abgerufen am
